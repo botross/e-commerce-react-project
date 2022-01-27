@@ -61,7 +61,7 @@ return (
                 <hr/>
                 <div className="d-flex justify-content-between mb-5 h6">
                     <span>You have {item.length} items in your cart</span>
-       
+
                 </div>
 
 {item}
